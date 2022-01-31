@@ -1,0 +1,28 @@
+﻿Сборка начата 21.10.2021 00:18:03.
+Уровень детализации журнала: Normal.     1>Проект "C:\Users\Chamster\Desktop\Лабы\Алгоритмизации\5\lab_05\6.1.2\6.1.2.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Обращение к "Debug\6.1.2.tlog\unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt Source.cpp
+         Source.cpp
+     1>C:\Users\Chamster\Desktop\Лабы\Алгоритмизации\5\lab_05\6.1.2\Source.cpp(9,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+     1>C:\Users\Chamster\Desktop\Лабы\Алгоритмизации\5\lab_05\6.1.2\Source.cpp(26,26): error C2664: "int atoi(const char *)": невозможно преобразовать аргумент 1 из "std::string" в "const char *"
+       C:\Users\Chamster\Desktop\Лабы\Алгоритмизации\5\lab_05\6.1.2\Source.cpp(26,22): message : Для выполнения данного преобразования нет доступного оператора преобразования, определенного пользователем, или вызов оператора невозможен
+       C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\stdlib.h(451,62): message : см. объявление "atoi"
+     1>Сборка проекта "C:\Users\Chamster\Desktop\Лабы\Алгоритмизации\5\lab_05\6.1.2\6.1.2.vcxproj" завершена (целевые объекты Build) с ошибкой.
+
+Ошибка сборки.
+
+       "C:\Users\Chamster\Desktop\Лабы\Алгоритмизации\5\lab_05\6.1.2\6.1.2.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         C:\Users\Chamster\Desktop\Лабы\Алгоритмизации\5\lab_05\6.1.2\Source.cpp(9,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+
+
+       "C:\Users\Chamster\Desktop\Лабы\Алгоритмизации\5\lab_05\6.1.2\6.1.2.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         C:\Users\Chamster\Desktop\Лабы\Алгоритмизации\5\lab_05\6.1.2\Source.cpp(26,26): error C2664: "int atoi(const char *)": невозможно преобразовать аргумент 1 из "std::string" в "const char *"
+
+    Предупреждений: 1
+    Ошибок: 1
+
+Прошло времени 00:00:00.44
