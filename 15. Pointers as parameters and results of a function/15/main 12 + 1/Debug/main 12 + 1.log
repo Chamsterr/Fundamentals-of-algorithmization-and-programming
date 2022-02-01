@@ -1,0 +1,16 @@
+﻿Сборка начата 17.12.2021 02:31:55.
+Уровень детализации журнала: Normal.     1>Проект "C:\Users\Chamster\Desktop\Лабы\Алгоритмизации\15norm\15\main 12 + 1\main 12 + 1.vcxproj" в узле 2 (целевые объекты Build).
+     1>PrepareForBuild:
+         Создание каталога "Debug\main 12 + 1.tlog\".
+       InitializeBuildStatus:
+         Создание "Debug\main 12 + 1.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       FinalizeBuildStatus:
+         Файл "Debug\main 12 + 1.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\main 12 + 1.tlog\main 12 + 1.lastbuildstate".
+     1>Сборка проекта "C:\Users\Chamster\Desktop\Лабы\Алгоритмизации\15norm\15\main 12 + 1\main 12 + 1.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:00.07

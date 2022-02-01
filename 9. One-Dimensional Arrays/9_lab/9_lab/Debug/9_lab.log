@@ -1,0 +1,19 @@
+﻿Сборка начата 12.11.2021 14:56:08.
+Уровень детализации журнала: Normal.     1>Проект "C:\Users\Chamster\Desktop\Лабы\Алгоритмизации\9\9_lab\9_lab\9_lab.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "Debug\9_lab.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         Для всех выходных данных обновления не требуется.
+         9_lab.vcxproj -> C:\Users\Chamster\Desktop\Лабы\Алгоритмизации\9\9_lab\Debug\9_lab.exe
+       FinalizeBuildStatus:
+         Файл "Debug\9_lab.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\9_lab.tlog\9_lab.lastbuildstate".
+     1>Сборка проекта "C:\Users\Chamster\Desktop\Лабы\Алгоритмизации\9\9_lab\9_lab\9_lab.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:00.07

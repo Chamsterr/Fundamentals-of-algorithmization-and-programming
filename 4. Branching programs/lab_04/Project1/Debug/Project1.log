@@ -1,0 +1,33 @@
+﻿Сборка начата 01.10.2021 13:08:17.
+Уровень детализации журнала: Normal.     1>Проект "C:\Users\Chamster\Desktop\Лабы\Алгоритмизации\4\lab_04\Project1\Project1.vcxproj" в узле 2 (целевые объекты Build).
+     1>C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (Project1.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+         Создание каталога "Debug\6 задание.tlog\".
+     1>InitializeBuildStatus:
+         Создание "Debug\6 задание.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt "6 задание.cpp"
+         6 задание.cpp
+     1>C:\Users\Chamster\Desktop\Лабы\Алгоритмизации\4\lab_04\Project1\6 задание.cpp(6,9): warning C4101: b: неиспользованная локальная переменная
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Chamster\Desktop\Лабы\Алгоритмизации\4\lab_04\Debug\6 задание.exe" /INCREMENTAL /ILK:"Debug\6 задание.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Chamster\Desktop\Лабы\Алгоритмизации\4\lab_04\Debug\6 задание.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Chamster\Desktop\Лабы\Алгоритмизации\4\lab_04\Debug\6 задание.lib" /MACHINE:X86 "Debug\6 задание.obj"
+         Project1.vcxproj -> C:\Users\Chamster\Desktop\Лабы\Алгоритмизации\4\lab_04\Debug\6 задание.exe
+       FinalizeBuildStatus:
+         Файл "Debug\6 задание.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\6 задание.tlog\6 задание.lastbuildstate".
+     1>Сборка проекта "C:\Users\Chamster\Desktop\Лабы\Алгоритмизации\4\lab_04\Project1\Project1.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "C:\Users\Chamster\Desktop\Лабы\Алгоритмизации\4\lab_04\Project1\Project1.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект PrepareForBuild) -> 
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (Project1.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+
+
+       "C:\Users\Chamster\Desktop\Лабы\Алгоритмизации\4\lab_04\Project1\Project1.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         C:\Users\Chamster\Desktop\Лабы\Алгоритмизации\4\lab_04\Project1\6 задание.cpp(6,9): warning C4101: b: неиспользованная локальная переменная
+
+    Предупреждений: 2
+    Ошибок: 0
+
+Прошло времени 00:00:01.10

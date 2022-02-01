@@ -1,0 +1,19 @@
+﻿Сборка начата 17.09.2021 15:41:29.
+Уровень детализации журнала: Normal.     1>Проект "C:\Users\Chamster\Desktop\Лабы\Алгоритмизации\2\KOVKEL2\KOVKEL2\KOVKEL2.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Обращение к "Debug\KOVKEL2.tlog\unsuccessfulbuild".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         Для всех выходных данных обновления не требуется.
+         KOVKEL2.vcxproj -> C:\Users\Chamster\Desktop\Лабы\Алгоритмизации\2\KOVKEL2\Debug\KOVKEL2.exe
+       FinalizeBuildStatus:
+         Файл "Debug\KOVKEL2.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\KOVKEL2.tlog\KOVKEL2.lastbuildstate".
+     1>Сборка проекта "C:\Users\Chamster\Desktop\Лабы\Алгоритмизации\2\KOVKEL2\KOVKEL2\KOVKEL2.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:00.14

@@ -1,0 +1,19 @@
+﻿Сборка начата 17.09.2021 15:41:52.
+Уровень детализации журнала: Normal.     1>Проект "C:\Users\Chamster\Desktop\Лабы\Алгоритмизации\2\10\10\10.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Обращение к "Debug\10.tlog\unsuccessfulbuild".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         Для всех выходных данных обновления не требуется.
+         10.vcxproj -> C:\Users\Chamster\Desktop\Лабы\Алгоритмизации\2\10\Debug\10.exe
+       FinalizeBuildStatus:
+         Файл "Debug\10.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\10.tlog\10.lastbuildstate".
+     1>Сборка проекта "C:\Users\Chamster\Desktop\Лабы\Алгоритмизации\2\10\10\10.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:00.06
