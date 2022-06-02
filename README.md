@@ -1,2 +1,1 @@
-# Fundamentals-of-algorithmization-and-programming--OAIP-
-BSTU
+# Fundamentals-of-algorithmization-and-programming
